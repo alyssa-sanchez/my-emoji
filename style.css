@@ -64,6 +64,9 @@ input {
 
 #emoji-container {
   margin: 0 auto;
-  width: 500px;
+  width: 400px;
   border: 4px dotted whitesmoke;
+}
+.emoji-box {
+  margin: 0 auto;
 }
