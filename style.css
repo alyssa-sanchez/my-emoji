@@ -64,7 +64,9 @@ input {
 
 #emoji-container {
   margin: 0 auto;
-  width: 400px;
+  /* width: 400px; */
+  /* to center the emoji both computer and mobile device */
+  max-width: 400px;
   border: 4px dotted whitesmoke;
 }
 .emoji-box {
